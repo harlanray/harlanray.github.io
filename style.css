@@ -1,0 +1,15 @@
+body {
+    padding: 32px;
+    background-color: black;
+}
+
+.logo {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.mail {
+    margin-top: 76px;
+    margin-right: 45px; 
+    text-align: end;
+}
