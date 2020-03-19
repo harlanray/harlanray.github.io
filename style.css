@@ -1,0 +1,15 @@
+body {
+    padding: 32px;
+    background-color: black;
+}
+
+.logo {
+    margin-top: 115px;
+    text-align: center;
+}
+
+.slack {
+    margin-top: -175px;
+    margin-right: 122px;
+    text-align: right;
+}
